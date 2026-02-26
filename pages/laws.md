@@ -4,7 +4,7 @@ layout: about
 permalink: /laws.html
 credits: false
 ---
-## Sexually Explicit Content ##
+## The Legal and Educational Context Behind Book Bans ##
 
 <sup> Cooper, Elizabeth, Riya, Eric </sup>
 
