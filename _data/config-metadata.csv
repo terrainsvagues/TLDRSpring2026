@@ -1,15 +1,10 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,DCTERMS.coverage,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license
+author,Author,,,DCTERMS.creator,creator
+pubdate,Date Published,,,DCTERMS.date,dateCreated
+banyear,Year Banned,,,,
+booksummary,Brief Summary,,,DCTERMS.description,description
+genre,Genre,,,DCTERMS.type,genre
+banreason,Ban Reason,true,,,
+location,Ban Location,,,DCTERMS.coverage,contentLocation
+locationtype, Type of Ban,,,,
