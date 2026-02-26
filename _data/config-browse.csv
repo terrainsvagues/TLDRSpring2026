@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name,facet_name
-pubdate,Date,,Date Published,Publication Date
+pubdate,Publication Date,,Date Published,Publication Date,
 booksummary,Book Summary,,Summary,
 author,Author,,Author,Author
 genre,Genre,,Genre,
