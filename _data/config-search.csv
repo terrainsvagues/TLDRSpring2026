@@ -1,7 +1,9 @@
 field,index,display
+banreason,true,true
+banyear,true,true
+genre,true,true
 title,true,true
-date,true,true
-creator,true,false
-description,true,true
-subject,true,true
+author,true,true
+legislation,true,true
 location,true,false
+locationtype,true,true
