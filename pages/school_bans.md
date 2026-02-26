@@ -1,7 +1,7 @@
 ---
 title: Book Banning in American Schools
 layout: about
-permalink: /anthropomorphic_animals.html
+permalink: /school_bans.html
 credits: false
 ---
 ## Book Banning in American Schools ##
