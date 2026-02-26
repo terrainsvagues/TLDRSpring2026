@@ -1,7 +1,9 @@
 field,display_name,btn,hidden,sort_name,facet_name
-date,Date,,,Date Created
-description,,,true,
-creator,Creator,,,
-subject,,true
+pubdate,Date,,,Date Published
+booksummary, Book Summary,,,,
+author,Author,,,
+genre,Genre,,,
+banyear,Year Banned,,,Year Banned
 location,,true,,,Location Depicted
-identifier,,,true,Identifier
+banreason, Ban Reason,,,Ban Reason
+legislation, Legislation,,,
