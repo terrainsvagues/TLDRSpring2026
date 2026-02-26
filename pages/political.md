@@ -29,3 +29,5 @@ One notable book banned throughout multiple schools in Florida is *The Hunger Ga
 ### Conclusion
 
 In conclusion, political content has always been, and likely always will be a key point of discourse and challenge for the literary censorship community. George Orwell famously advocated for free expression, stating "If liberty means anything at all, it means the right to tell people what they do not want to hear", which in the context of book banning, is a reminder that allowing public opinions or authorities to restrict books leads to a stifled society and narrow ideology.
+
+{% include feature/image.html objectid="01group3;02group8" %}
