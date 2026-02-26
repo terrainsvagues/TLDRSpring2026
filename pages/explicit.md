@@ -1,10 +1,10 @@
 ---
-title: Sexually Explicit Content
+title: Banning Due to Sexually Explicit Content
 layout: about
 permalink: /explicit.html
 credits: false
 ---
-## Sexually Explicit Content ##
+## Banning Due to Sexually Explicit Content ##
 
 <sup> Jack, Arlene, Vee, Nicole </sup>
 
