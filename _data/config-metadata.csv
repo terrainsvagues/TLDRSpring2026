@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 author,Author,,,DCTERMS.creator,creator
 pubdate,Date Published,,,DCTERMS.date,dateCreated
-banyear,Year Banned,,,,
+date,Year Banned,,,,
 booksummary,Brief Summary,,,DCTERMS.description,description
 genre,Genre,,,DCTERMS.type,genre
 banreason,Ban Reason,true,,,
