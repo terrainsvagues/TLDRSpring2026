@@ -1,10 +1,10 @@
 ---
-title: Anthropomorphic Animals
+title: Banning Due to Anthropomorphic Animals
 layout: about
 permalink: /anthropomorphic_animals.html
 credits: false
 ---
-## Anthropomorphic Animals ##
+## Banning Due to Anthropomorphic Animals ##
 
 <sup> Mahammad, Adela, Qianru, Josh </sup>
 
