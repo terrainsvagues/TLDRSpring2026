@@ -1,6 +1,6 @@
 field,index,display
 banreason,true,true
-banyear,true,true
+year,true,true
 genre,true,true
 title,true,true
 author,true,true
