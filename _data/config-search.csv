@@ -5,5 +5,5 @@ genre,true,true
 title,true,true
 author,true,true
 legislation,true,true
-location,true,false
+location,true,true
 locationtype,true,true
