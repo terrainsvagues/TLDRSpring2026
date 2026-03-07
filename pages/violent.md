@@ -4,9 +4,10 @@ layout: about
 permalink: /violent.html
 credits: false
 ---
-## Banning Due to Violent Content ##
 
-<sup> Sera, Shelby, Pranav, Ivy </sup>
+## Banning Due to Violent Content
+
+<sup>Sera, Shelby, Pranav, Ivy</sup>
 
 ### Violence-Based Censorship
 
@@ -18,6 +19,4 @@ Historically, books that included violence were banned by governments in order t
 
 ### Contemporary Concerns
 
-Due to the recent increases in school shootings in the U.S., modern-day book bans have continued to target content that exposes youth communities to strong themes of violence, especially those depicting school violence. In particular, there was more scrutiny for any form of media entertainment, including books, that contained dark and violent themes. This applies most to the time period following the 1999 Columbine school shooting in Denver, Colorado ([EBSCO](www.ebsco.com/research-starters/literature-and-writing/censorship-banned-books)), which was a student-shooting that took place in a high school library. Additionally, modern day book bans have also targeted content depicting racism and sexual assault under the premise of removing "obscene" or "divisive" books. However, many people have argued that banning such books shuts down any discussion for improvement or change, and people may begin to turn a blind eye to our truthfully violent history.
-
-{% include feature/image.html objectid="04group1;08group6" %}
+Due to the recent increases in school shootings in the U.S., modern-day book bans have continued to target content that exposes youth communities to strong themes of violence, especially those depicting school violence. In particular, there was more scrutiny for any form of media entertainment, including books, that contained dark and violent themes. This applies most to the time period following the 1999 Columbine school shooting in Denver, Colorado ([EBSCO](https://www.ebsco.com/research-starters/literature-and-writing/censorship-banned-books)), which was a student-shooting that took place in a high school library. Additionally, modern day book bans have also targeted content depicting racism and sexual assault under the premise of removing "obscene" or "divisive" books. However, many people have argued that banning such books shuts down
