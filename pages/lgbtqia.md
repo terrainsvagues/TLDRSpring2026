@@ -18,7 +18,7 @@ Throughout the 20th Century, LGBTQ literature significantly increased creating a
 
 ### Book Examples
 
-A few books that have been banned in different states due to their LGBTQ and identity content include *All Boys Aren't Blue* by George Johnson, *They Both Die at the End* by Adam Silvera, and *Cinderella is Dead* by Kalynn Bayron.
+A few books that have been banned in different states due to their LGBTQ and identity content include *[All Boys Aren't Blue](https://terrainsvagues.github.io/TLDRSpring2026/items/07group7.html)* by George Johnson, *[They Both Die at the End](https://terrainsvagues.github.io/TLDRSpring2026/items/08group3.html)* by Adam Silvera, and *[Cinderella is Dead](https://terrainsvagues.github.io/TLDRSpring2026/items/02group2.html)* by Kalynn Bayron.
 
 - **All Boys Aren't Blue** — A Young Adult (YA) memoir of personal essays that portrays the author's experiences growing up as Black and queer in America. Banned in 2022 in Florida.
 - **They Both Die at the End** — A Young Adult fictional book where two queer strangers connect and receive news they only have 24 hours to live. Banned in 2022 in Texas.
