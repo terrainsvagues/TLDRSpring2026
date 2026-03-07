@@ -1,7 +1,7 @@
 ---
 title: Banning Due to Anthropomorphic Animals
 layout: about
-permalink: /anthropomorphic_animals.html
+permalink: /animals.html
 credits: false
 ---
 
