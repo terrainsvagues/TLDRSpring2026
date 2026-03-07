@@ -1,11 +1,11 @@
 ---
-title: Geographical Hotspots—Discrepancies in Book Banning Across States
+title: Discrepancies in Book Banning Across States
 layout: about
 permalink: /states.html
 credits: false
 ---
 
-## Geographical Hotspots—Discrepancies in Book Banning Across States
+## Discrepancies in Book Banning Across States
 
 <sup>Yasmine, Avery, Andrew, Allison</sup>
 
