@@ -6,7 +6,7 @@ credits: false
 ---
 ## Banning Due to LGBTQIA+ Themes and Content ##
 
-<sup> Jack, Arlene, Vee, Nicole </sup>
+<sup> Rudy, Abby, Tanay, Caroline </sup>
 
 ### Historical Context
 
